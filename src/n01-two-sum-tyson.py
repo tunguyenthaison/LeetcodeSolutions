@@ -23,7 +23,7 @@ class Solution:
                 return result
 
 
-# Example 1
+# Example 1 --
 sol = Solution()
 answer = sol.twoSum([2, 7, 11, 15], 9)
 print(answer)
